@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomUIComponentsDemo</string>
+    <string name="label">Custom EditText Label</string>
+    <string name="action_settings">Settings</string>
+</resources>
